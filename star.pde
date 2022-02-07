@@ -27,6 +27,6 @@ class Star{
 
     void update(){
         position.add(velocity);
-
+        
     }
 }
